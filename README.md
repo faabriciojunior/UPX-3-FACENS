@@ -4,11 +4,12 @@ GITHUB DA UPX 3 - PROJETO FACENS
 
 PASSO A PASSO PARA FAZER COMMIT: 
 
+
 git init
 
 git add .
 
-git commit -m "first commit"
+git commit -m "(explique aqui a alteração do commit)"
 
 git branch -M master
 
